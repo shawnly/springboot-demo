@@ -14,3 +14,5 @@ https://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/
 simple tutorial
 
 https://github.com/eugenp/tutorials/tree/master/spring-data-elasticsearch
+
+https://www.mkyong.com/spring-boot/spring-boot-spring-data-elasticsearch-example/
