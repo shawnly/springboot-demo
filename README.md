@@ -10,3 +10,7 @@ https://docs.spring.io/spring-data/rest/docs/current/reference/html/
 Spring Data Elasticsearch
 
 https://docs.spring.io/spring-data/elasticsearch/docs/current/reference/html/
+
+simple tutorial
+
+https://github.com/eugenp/tutorials/tree/master/spring-data-elasticsearch
